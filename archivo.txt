@@ -1,2 +1,1 @@
-INFORMACION DEL ARCHIVO
-Apellido y Nombre
+Información del archivo de texto
