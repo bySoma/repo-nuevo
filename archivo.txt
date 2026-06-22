@@ -1,1 +1,2 @@
 Información del archivo de texto
+Aqui agregamos otra linea.
